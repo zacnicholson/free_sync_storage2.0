@@ -54,6 +54,8 @@ When it asks for your referral code you can find it here. Copy and paste the Re
 
 If you prefer to run this not headless go to line 9 in  sync.py and comment the line out
 
+If you download just the .app from above OS X might say that the file is dangerous, due to it being built with Tkinter. It is not dangerous
+
 
 ### Built With
 
