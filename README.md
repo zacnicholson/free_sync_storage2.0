@@ -16,7 +16,7 @@
     <a href="https://github.com/zacnicholson/free_sync_storage2.0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/zacnicholson/free_sync_storage2.0/blob/cd979ae28c05c1f1cae56e7ce795c8eb4e4a0b9c/Free%20Sync%20Storage.zip">Download the program</a>
+    <a href="https://github.com/zacnicholson/free_sync_storage2.0/raw/cd979ae28c05c1f1cae56e7ce795c8eb4e4a0b9c/Free%20Sync%20Storage.zip">Download the program</a>
     ·
     <a href="https://github.com/zacnicholson/free_sync_storage2.0/issues">Report Bug</a>
     ·
