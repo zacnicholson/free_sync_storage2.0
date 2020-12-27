@@ -82,5 +82,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@zac_nicholson](https://instagram.com/zacnicholson)
 
-Project Link: [https://github.com/zacnicholson/free_sync_storage2.0)](https://github.com/zacnicholson/free_sync_storage2.0)
+Project Link: [https://github.com/zacnicholson/free_sync_storage2.0](https://github.com/zacnicholson/free_sync_storage2.0)
 
