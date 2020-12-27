@@ -10,8 +10,7 @@
   <h3 align="center">Free Sync Storage</h3>
 
   <p align="center">
-    This script allows you to get the max 20 GB from [sync.com's](https://www.sync.com/)
- referral program.  
+    This script allows you to get the max 20 GB from sync.com's referral program.  
     <br />
     <a href="https://github.com/zacnicholson/free_sync_storage2.0"><strong>Explore the docs »</strong></a>
     <br />
@@ -80,7 +79,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@zac_nicholson](https://instagram.com/zacnicholson)
+Your Name - [@zacnicholson](https://instagram.com/zacnicholson)
 
 Project Link: [https://github.com/zacnicholson/free_sync_storage2.0](https://github.com/zacnicholson/free_sync_storage2.0)
 
