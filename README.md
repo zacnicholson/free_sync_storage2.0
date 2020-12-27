@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This script allows you to get the max 20 GB from [sync.com's](https://www.sync.com/) referral program. All you need to do is run the .app or python script.
+This script allows you to get the max 20 GB from sync.com's referral program. All you need to do is run the .app or python script.
 
 Once open, just follow the instructions in the app. It should take about 5min to get the 20GBs. 
 When it asks for your referral code you can find it here. Copy and paste the Ref code and hit run.
@@ -80,5 +80,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@zac_nicholson](https://instagram.com/zacnicholson)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/zacnicholson/free_sync_storage2.0)
+Project Link: [https://github.com/zacnicholson/free_sync_storage2.0)](https://github.com/zacnicholson/free_sync_storage2.0)
 
